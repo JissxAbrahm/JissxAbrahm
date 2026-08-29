@@ -6,7 +6,6 @@
     <img src="./assets/jiss_abraham_banner.gif" width="100%" alt="Jiss Abraham - Computer Science · Data Analytics"/>
   </picture>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=JissxAbraham&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <div align="center">
