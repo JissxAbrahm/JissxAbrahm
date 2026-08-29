@@ -1,3 +1,14 @@
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="./assets/bann.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/light.gif">
+    <img src="./assets/jiss_abraham_banner.gif" width="100%" alt="Jiss Abraham - Computer Science · Data Analytics"/>
+  </picture>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=JissxAbraham&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</div>
+
 <div align="center">
 
 <img src="./assets/plin.gif" width="100%" alt="Jiss Abraham"/>
