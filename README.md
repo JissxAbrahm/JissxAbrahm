@@ -13,8 +13,6 @@
 
 <div align="center">
 
----
-
 <div align="center">
 ## 👋 Hi / നമസ്തേ
 
