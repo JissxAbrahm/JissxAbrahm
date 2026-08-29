@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/bann.svg" width="100%" alt="Jiss Abraham"/>
+<img src="./assets/plin.gif" width="100%" alt="Jiss Abraham"/>
 
 <br>
 
