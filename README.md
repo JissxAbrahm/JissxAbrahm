@@ -90,34 +90,40 @@ The system combines:
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,javascript" />
+  <img src="./assets/icons/python.gif" height="48" />
+  <img src="./assets/icons/c.gif" height="48" />
+  <img src="./assets/icons/javascript.gif" height="48" />
 </p>
 
 ### 🌐 Web Development
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,django" />
+  <img src="./assets/icons/html.gif" height="48" />
+  <img src="./assets/icons/css.gif" height="48" />
+  <img src="./assets/icons/django.gif" height="48" />
 </p>
 
 ### 📊 Data & Databases
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle"/>
+  <img src="./assets/icons/mysql.gif" height="48" />
+  <img src="./assets/icons/sqlite.gif" height="48" />
+  <img src="./assets/icons/oracle.gif" height="48" />
 </p>
 
 ### 🎨 Design
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="./assets/icons/figma.gif" height="48" />
+  <img src="./assets/icons/ps.gif" height="48" />
+  <img src="./assets/icons/ai.gif" height="48" />
 </p>
 
 ### 🐧 Platforms & Tools
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,android,git,github,vscode" />
+  <img src="./assets/icons/linux.gif" height="48" />
+  <img src="./assets/icons/android.gif" height="48" />
+  <img src="./assets/icons/git.gif" height="48" />
+  <img src="./assets/icons/github.gif" height="48" />
+  <img src="./assets/icons/vscode.gif" height="48" />
 </p>
 
 ---
