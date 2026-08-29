@@ -13,9 +13,7 @@
 
 <div align="center">
 
-<div align="center">
 
-<div align="center">
 
 ### I'm **Jiss Abraham**
 
@@ -130,20 +128,28 @@ The system combines:
 
 ## 📚 Currently Learning
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td width="50%" align="left">
 
-| Area | Focus                   |
-| :--: | :---------------------- |
-|  📊  | Data Analytics          |
-|  🤖  | Artificial Intelligence |
-|  👁️ | Computer Vision         |
-|  🐍  | Python                  |
-|  🗄️ | SQL & Databases         |
-|  🌐  | Web Development         |
-|   ⚡  | Embedded Systems        |
-|  🎨  | UI/UX                   |
+| 📊 | Data Analytics          |
+|----|-------------------------|
+| 🤖 | Artificial Intelligence |
+| 👁️ | Computer Vision         |
+| 🐍 | Python                  |
 
-</div>
+</td>
+    <td width="50%" align="left">
+
+| 🗄️ | SQL & Databases   |
+|----|-------------------|
+| 🌐 | Web Development   |
+| ⚡  | Embedded Systems  |
+| 🎨 | UI/UX             |
+
+</td>
+  </tr>
+</table>
 
 ---
 
