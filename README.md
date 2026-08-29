@@ -14,7 +14,6 @@
 <div align="center">
 
 <div align="center">
-## 👋 Hi / നമസ്തേ
 
 <div align="center">
 
