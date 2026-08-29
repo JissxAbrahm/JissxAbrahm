@@ -1,7 +1,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="./assets/bann.gif">
+    <source media="(prefers-color-scheme: dark)"  srcset="./assets/plin.gif">
     <source media="(prefers-color-scheme: light)" srcset="./assets/light.gif">
     <img src="./assets/jiss_abraham_banner.gif" width="100%" alt="Jiss Abraham - Computer Science · Data Analytics"/>
   </picture>
