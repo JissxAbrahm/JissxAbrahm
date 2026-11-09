@@ -11,44 +11,60 @@
 
   <br><br>
 
-  <a href="https://www.linkedin.com/in/jiss-abraham-1b7b701a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/jissxabraham"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
-  <a href="https://www.behance.net/jissabraham35"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white"/></a>
-  <a href="https://medium.com/@jissabrahm35"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/20248837/jiss-abraham"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://instagram.com/jiss_abrahm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:jissabraham35@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=JissxAbrahm&label=Views&color=0e75b6&style=flat-square"/>
+  <a href="https://www.linkedin.com/in/jiss-abraham-1b7b701a3"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="46" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://kaggle.com/jissxabraham"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="46" alt="Kaggle"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.behance.net/jissabraham35"><img src="https://cdn.simpleicons.org/behance/1769FF" height="46" alt="Behance"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@jissabrahm35"><img src="https://cdn.simpleicons.org/medium/8b949e" height="46" alt="Medium"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/20248837/jiss-abraham"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="46" alt="Stack Overflow"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/jiss_abrahm"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="46" alt="Instagram"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:jissabraham35@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="46" alt="Email"/></a>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=JissxAbrahm&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" height="32" alt="Profile views"/>
 </div>
 
 <br>
 
-## 👋 Hi, I'm Jiss
+<div align="center">
 
-I'm an **MSc Computer Science (Data Analytics)** student from **India**. I like turning ideas into working projects, from data analysis and software to **AI, computer vision, automation and digital design**.
+# 👋 Hi, I'm Jiss
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+## MSc Computer Science · Data Analytics
 
-**🔭 Working on**
-- 📊 Data analytics & visualization
-- 🤖 AI & computer vision
-- 🌱 Smart agriculture technology
-- 🗄️ Database systems
+### I turn ideas into working projects, from data analysis and software to **AI, computer vision, automation and digital design**.
 
-</td>
-    <td width="50%" valign="top">
+<br>
 
-**📚 Learning**
-- 🐍 Python & SQL
-- 🌐 Web development
-- ⚡ Embedded systems
-- 🎨 UI/UX design
+## 🔭 Currently Working On
 
-</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Analytics-0e75b6?style=for-the-badge&logo=pandas&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/AI-8957E5?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-0e75b6?style=for-the-badge&logo=opencv&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Smart_Agriculture-2EA043?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/Databases-E48E00?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
+</p>
+
+<br>
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Web_Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Embedded_Systems-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40"/>
+</p>
+
+</div>
 
 ---
 
