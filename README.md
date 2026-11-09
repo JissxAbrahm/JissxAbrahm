@@ -100,52 +100,79 @@ flowchart LR
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-<table>
-  <tr>
-    <td width="170"><b>Languages</b></td>
-    <td>
-      <img src="./assets/icons/python.gif" height="40" />
-      <img src="./assets/icons/c.gif" height="40" />
-      <img src="./assets/icons/javascript.gif" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Web</b></td>
-    <td>
-      <img src="./assets/icons/html.gif" height="40" />
-      <img src="./assets/icons/css.gif" height="40" />
-      <img src="./assets/icons/django.gif" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data & Databases</b></td>
-    <td>
-      <img src="./assets/icons/mysql.gif" height="40" />
-      <img src="./assets/icons/sqlite.gif" height="40" />
-      <img src="./assets/icons/oracle.gif" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Design</b></td>
-    <td>
-      <img src="./assets/icons/figma.gif" height="40" />
-      <img src="./assets/icons/ps.gif" height="40" />
-      <img src="./assets/icons/ai.gif" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Platforms & Tools</b></td>
-    <td>
-      <img src="./assets/icons/linux.gif" height="40" />
-      <img src="./assets/icons/android.gif" height="40" />
-      <img src="./assets/icons/git.gif" height="40" />
-      <img src="./assets/icons/github.gif" height="40" />
-      <img src="./assets/icons/vscode.gif" height="40" />
-    </td>
-  </tr>
-</table>
+## ⚡ Tech Stack
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=520&lines=Tools+I+build+with;From+data+to+deployment;Always+adding+to+the+toolbox" alt="Tools I build with"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Languages-0e75b6?style=for-the-badge&labelColor=161b22" height="34"/>
+
+<p align="center">
+  <img src="./assets/icons/python.gif" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/c.gif" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/javascript.gif" height="72" />
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Web-E34F26?style=for-the-badge&labelColor=161b22" height="34"/>
+
+<p align="center">
+  <img src="./assets/icons/html.gif" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/css.gif" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/django.gif" height="72" />
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Data_%26_Databases-E48E00?style=for-the-badge&labelColor=161b22" height="34"/>
+
+<p align="center">
+  <img src="./assets/icons/mysql.gif" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/sqlite.gif" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/oracle.gif" height="72" />
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Design-F24E1E?style=for-the-badge&labelColor=161b22" height="34"/>
+
+<p align="center">
+  <img src="./assets/icons/figma.gif" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/ps.gif" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/ai.gif" height="72" />
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Platforms_%26_Tools-8957E5?style=for-the-badge&labelColor=161b22" height="34"/>
+
+<p align="center">
+  <img src="./assets/icons/linux.gif" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/android.gif" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/git.gif" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/github.gif" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/vscode.gif" height="72" />
+</p>
+
+<br>
+
+</div>
 
 ---
 
